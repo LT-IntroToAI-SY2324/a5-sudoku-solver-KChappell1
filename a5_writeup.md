@@ -30,6 +30,7 @@ When solving sudoku puzzles the performance was he same for both algorithms both
 
 
 
+
 3. Considering the current implementation, how might the Sudoku solver be adapted or extended for larger puzzles or different types of grid-based logic games? How can the lessons learned from this assignment be applied to real-world problem-solving or optimization challenges?
 
-
+The solver could potentially be used for larger puzzles of stock exchange and economy prediction trying to estimate the most likely outcome. of course my favorite game chess is another game where this could easily be implemented into to aid decision making and training. 
